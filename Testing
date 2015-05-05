@@ -6,7 +6,17 @@
 </head>
 
 <body>
-Github Test
+<table border = 1;>
+	<thead>Table</thead>
+		<tr>
+			<td>something</td>
+			<td>jesus</td>
+			<td>Hello</td>
+		</tr>
+		<tr>
+			<td>Bye</td>
+		</tr>
+</table>
 </body>
 
 </html>
